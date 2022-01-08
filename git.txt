@@ -1,0 +1,2 @@
+to go back to a commit 
+    git checkout name_of_tag
